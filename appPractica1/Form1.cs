@@ -10,13 +10,16 @@ using System.Windows.Forms;
 
 namespace appPractica1
 {
-    public partial class Form1 : Form
+    public partial class frmPedido : Form
     {
-        public Form1()
+        public frmPedido()
         {
             InitializeComponent();
         }
 
-    
+        private void btnTerminar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

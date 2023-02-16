@@ -1,0 +1,10 @@
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\bin\Debug\appPractica1.exe.config
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\bin\Debug\appPractica1.exe
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\bin\Debug\appPractica1.pdb
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\obj\Debug\appPractica1.csproj.AssemblyReference.cache
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\obj\Debug\appPractica1.frmPedido.resources
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\obj\Debug\appPractica1.Properties.Resources.resources
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\obj\Debug\appPractica1.csproj.GenerateResource.cache
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\obj\Debug\appPractica1.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\obj\Debug\appPractica1.exe
+C:\Users\Sistemas\Documents\prsw\progsw\appPractica1\obj\Debug\appPractica1.pdb
